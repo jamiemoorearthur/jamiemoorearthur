@@ -1,8 +1,15 @@
-## Hi there 👋
-I'm Jamie, a Incoming Masters Student at QMUL starting my masters in  Biomedical Engineering with a Minor in Digital Healthcare & AI this Fall (2026)
+## 👋 Hey there
 
-Last Year, I worked as a Data Engineer Intern at WEVOLV, developing data workflows and anlytical solutions for a High-tech SASS enviornments.
-I worked confidently with Python and Applied Mathematics, and I'm passionate about Bridging biomechanics with scalable data engineering. In my Spare time, I also act as an Alumni Ambassador for Chi Chi's Young Minds, championing youth development and stepping into leadership roles that push me to grow beyond the technical.
+I'm **Jamie**, an incoming Master’s student at **Queen Mary University of London (QMUL)**, studying  
+🎓 Biomedical Engineering with a focus on **AI & Digital Healthcare** (2026).
+
+I recently worked as a **Data Engineer Intern at WEVOLV**, where I built data workflows and analytical solutions in a SaaS environment using **Python and applied mathematics**.
+
+I’m particularly interested in the intersection of **biomechanics, AI, and data engineering**, with a focus on building scalable systems for healthcare innovation.
+
+Outside of tech, I’m an **Alumni Ambassador & Future Leader Award Winner for Social Mobility and Chi Chi's Young Minds
+
+---
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
