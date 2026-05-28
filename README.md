@@ -13,7 +13,7 @@ Outside of tech, I’m an **Alumni Ambassador & Future Leader Award Winner for S
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,figma)](https://skillicons.dev)
 
 ### Backend / Cloud / Data Stack
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,aws)](https://skillicons.dev)
