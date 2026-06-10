@@ -16,6 +16,6 @@ Outside of tech, I’m an **Alumni Ambassador & Future Leader Award Winner for S
 [![My Skills](https://skillicons.dev/icons?i=figma,notion,vscode)](https://skillicons.dev)
 
 ### Backend / Cloud / Data Stack
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,aws,selenium,Claude)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,aws,selenium)](https://skillicons.dev)
 
 Let’s connect: I’m always open to opportunities and conversations — find me on LinkedIn: [https://www.linkedin.com/in/jamiemoorearthur/]
