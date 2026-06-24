@@ -2,10 +2,9 @@
 
 I'm **Jamie**, an incoming Master’s student at **Queen Mary University of London (QMUL)**, studying  
 🎓 Biomedical Engineering with a focus on **AI & Digital Healthcare** (2026).
-
-I recently worked as a **Data Engineer Intern at WEVOLV** last Summer where I built data workflows and analytical solutions in a SaaS environment using **Python, PostgreSQL and AWS and Backend production infrastructure**.
-I’m particularly interested in the intersection of **biomechanics, AI, and data engineering**, with a focus on building scalable systems for healthcare innovation.
-Outside of tech, I’m an **Alumni Ambassador & Future Leader Award Winner for Social Mobility and Chi Chi's Young Minds
+Founder of CVIQ, an AI‑powered CV review engine designed for UK students and graduates navigating internships and grad‑scheme recruitment. I’m building the platform end‑to‑end with a focus on scalable backend architecture, data pipelines, and intelligent document analysis.
+Previously a Data Engineer Intern at WEVOLV, where I developed cloud‑based data workflows and backend infrastructure using Python, PostgreSQL, and AWS.
+I’m especially interested in applying AI, biomechanics, and data engineering to build systems that improve access, efficiency, and outcomes in digital health.
 ---
 ## 🛠️ Tech Stack
 
