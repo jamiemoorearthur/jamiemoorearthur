@@ -5,8 +5,8 @@ I'm **Jamie**, an incoming Master’s student at **Queen Mary University of Lond
 
 ---
 
-## 🚀 Founder & Software Engineer of CVIQ — *Currently in Operations week 3*
-I’m currently building **CVIQ AI** end-to-end, with a primary focus on **backend engineering, infrastructure, data systems, and production workflows**.
+## 🚀 Founder & Software Engineer of CVIQ
+Currently building **CVIQ AI** end-to-end, with a primary focus on **backend engineering, infrastructure, data systems, and production workflows**.
 
 My current engineering focus includes:
 
