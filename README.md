@@ -28,40 +28,6 @@ while working closely with the AI engineering function to ensure the AI layer is
 
 CVIQ is currently focused on **growing and validating the platform with UK university students**, using real user feedback and product data to continuously improve the backend, AI workflows, and overall user experience.
 
-CVIQ architecture diagram
-                 ┌──────────────────┐
-                 │   CVIQ Frontend  │
-                 │   React / Vite    │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │   FastAPI API    │
-                 └────────┬─────────┘
-                          │
-              ┌───────────┼───────────┐
-              ▼           ▼           ▼
-        ┌──────────┐ ┌─────────┐ ┌──────────┐
-        │PostgreSQL│ │ CV      │ │ Auth /   │
-        │ Database │ │ Pipeline│ │ Users    │
-        └──────────┘ └────┬────┘ └──────────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │ RAG Layer   │
-                    │ Retrieval   │
-                    └──────┬──────┘
-                           ▼
-                    ┌─────────────┐
-                    │ LLM Analysis│
-                    └──────┬──────┘
-                           ▼
-                  ┌──────────────────┐
-                  │ Evaluation &      │
-                  │ Observability     │
-                  └──────────────────┘
-
-
 ## 🛠️ Tech Stack
 
 ### Languages & Tools  
