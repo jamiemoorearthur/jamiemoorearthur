@@ -1,13 +1,13 @@
 ## 👋 Hey there
 
 I'm **Jamie**, an incoming Master’s student at **Queen Mary University of London (QMUL)**, studying  
-🎓 Biomedical Engineering with a focus on **AI & Digital Healthcare** — graduating Fall 2027.
+🎓 Biomedical Engineering with a focus on **AI & Digital Healthcare**: graduating Fall 2027.
 
 ---
 
-## 🚀 Founder of CVIQ — *Currently in Launch Week*
+## 🚀 Founder of CVIQ — *Currently in Operations week 3*
 
-I'm the Founder of **CVIQ**, an AI‑powered CV review engine designed for UK students and graduates navigating internships and grad‑scheme recruitment.
+I'm the Founder of **CVIQ**, an AI‑powered CV intelligence platform designed for UK students and graduates navigating internships and grad‑scheme recruitment.
 
 I’m building the platform end‑to‑end with a focus on:
 
