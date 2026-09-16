@@ -27,6 +27,7 @@ while working closely with the AI engineering function to ensure the AI layer is
 ### 🎯 Current CVIQ Direction
 
 CVIQ is currently focused on **growing and validating the platform with UK university students**, using real user feedback and product data to continuously improve the backend, AI workflows, and overall user experience.
+
 CVIQ architecture diagram
                  ┌──────────────────┐
                  │   CVIQ Frontend  │
@@ -59,7 +60,7 @@ CVIQ architecture diagram
                   │ Evaluation &      │
                   │ Observability     │
                   └──────────────────┘
-> **Building the backend infrastructure and intelligent systems behind CVIQ AI.**
+
 
 ## 🛠️ Tech Stack
 
