@@ -5,28 +5,19 @@ I'm **Jamie**, an Master’s student at **Queen Mary University of London (QMUL)
 
 ---
 
-## 🚀 Founder & Software Engineer of CVIQ
-Currently building **CVIQ AI** end-to-end, with a primary focus on **backend engineering, infrastructure, data systems, and production workflows**.
+## 🚀 Engineering at CVIQ AI
+My engineering work spans:
+- **Backend Engineering** — scalable APIs, services, authentication, and database architecture.
+- **Data Engineering** — automated pipelines, data processing, and workflow orchestration.
+- **AI Engineering** — LLM integration, RAG pipelines, and reliable AI-powered workflows.
+- **Cloud & Systems Engineering** — infrastructure, deployment, system architecture, and production reliability.
+- **AI Observability & Evaluation** — monitoring model performance, retrieval quality, latency, token usage, and output reliability.
 
-My current engineering focus includes:
+### 🚀 Current Focus
 
-* **Scalable Backend Infrastructure** - building and maintaining the backend architecture, APIs, services, authentication, and database systems that power the platform.
-* **Data Pipelines & Workflow Automation** — developing automated data-processing workflows and backend pipelines for CV ingestion, analysis, and platform operations.
-* **AI Integration** — integrating LLM-powered capabilities into backend services and designing reliable workflows around AI-generated outputs.
-* **RAG-Based Intelligence Layer** — developing the backend infrastructure that supports retrieval, contextual data, and knowledge-grounded AI responses.
-* **Cloud & Deployment** — managing cloud-based backend services, databases, API deployment, and production infrastructure.
-* **AI Evaluation & Observability** — collaborating closely with my **CTO / Lead AI Engineer** on model evaluation, observability, prompt performance, retrieval quality, token usage, latency, and AI reliability.
-### 🔧 Engineering Focus
+Building and scaling CVIQ AI for UK university students, continuously improving the platform through real-world user feedback and product data.
 
-My role sits primarily across:
-
-**Backend Engineering → Data Engineering → Cloud Infrastructure → AI Integration**
-
-while working closely with the AI engineering function to ensure the AI layer is **observable, measurable, and reliable in production**.
-
-### 🎯 Current CVIQ Direction
-
-CVIQ is currently focused on **growing and validating the platform with UK university students**, using real user feedback and product data to continuously improve the backend, AI workflows, and overall user experience.
+**Core Interests:** Backend Systems · AI Engineering · System Design · Data Infrastructure · Cloud Computing · RAG · LLMs
 
 ## 🛠️ Tech Stack
 
