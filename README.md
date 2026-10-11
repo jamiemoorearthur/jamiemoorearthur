@@ -1,6 +1,6 @@
 ## 👋 Hey there
 
-I'm **Jamie**, an incoming Master’s student at **Queen Mary University of London (QMUL)**, studying  
+I'm **Jamie**, an Master’s student at **Queen Mary University of London (QMUL)**, studying  
 🎓 Biomedical Engineering with a focus on **AI & Digital Healthcare**: graduating Fall 2027.
 
 ---
